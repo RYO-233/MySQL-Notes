@@ -201,6 +201,9 @@ select * from t_name;
 
 ```mysql
 select field1 [[as] name1]... from t_name;
+
+# 一旦为表起了别名，就不能再使用表名来指定对应的字段了
+# 此时只能够使用别名来指定字段。
 ```
 
 去除重复记录
