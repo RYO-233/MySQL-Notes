@@ -307,7 +307,7 @@ select field_list from t_name limit start_index, record;
 
 • 如果查询的是第一页数据，起始索引可以省略，直接简写为 limit 10。
 
-### 执行顺序
+### SQL 执行顺序
 
 ![execute_order](img/execute_order.png)
 
