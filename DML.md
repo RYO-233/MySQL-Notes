@@ -36,5 +36,3 @@ update t_name set field1=value1, field2=value2... [where 条件];
 ```mysql
 delete from t_name [where 条件];
 ```
-
-# 

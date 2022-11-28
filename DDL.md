@@ -147,5 +147,3 @@ create table t_name like r_t_name;
 ```mysql
 create table t_name [as] select 字段,... from r_t_name [where 条件];
 ```
-
-# 
